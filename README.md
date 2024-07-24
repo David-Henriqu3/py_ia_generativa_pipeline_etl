@@ -11,8 +11,8 @@ Modelo de IA Generativa em  um pipeline de ETL com Python.
 
 ## 💻 Tecnologias e Ferramentas
 
-![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)
-![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
+![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
+![OpenAI](https://img.shields.io/badge/-OpenAI-333333?style=for-the-badge&logo=openai&logoColor=0E76A8)
 
 ## 👨🏽‍💻 Autor
 
